@@ -1,3 +1,5 @@
+We added two catalogues, the Classic and the Farmer, by keeping all the data in Classic and adding the ones in Farmer that were not in Classic.
+
 The data was processed by filtering galaxies and using the COMBINED_FLAG,
 which indicates that measurements carried out with UVIST, HSC and SC are reliable.
 
